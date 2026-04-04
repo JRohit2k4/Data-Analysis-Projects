@@ -43,6 +43,11 @@ The dataset includes:
 
 ---
 
+## 📊 Dashboard Preview
+![Dashboard](dashboard/dashboard.png)
+
+---
+
 ## 📈 Key Insights
 - Identified top-performing mobile models  
 - Analyzed sales trends across different months  
