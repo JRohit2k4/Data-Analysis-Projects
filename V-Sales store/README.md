@@ -44,7 +44,7 @@ The dataset includes:
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](V-Sales_store/V-sales_dashboard.png)
+![Dashboard](V-Sales%20store/V-sales%20dashboard.png)
 
 ---
 
