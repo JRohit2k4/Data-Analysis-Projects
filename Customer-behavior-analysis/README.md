@@ -28,7 +28,7 @@ The goal is to build a complete workflow that transforms raw data into actionabl
 - Handle missing values  
 - Remove duplicates  
 - Convert data types  
-- Create new features (e.g., purchase_frequency_days)
+- Create new features (e.g., purchase_frequency_days, age_group)
 
 ---
 
