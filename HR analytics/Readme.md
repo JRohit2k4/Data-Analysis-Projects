@@ -1,17 +1,17 @@
-**HR Analytics Dashboard**
+# HR Analytics Dashboard
 
-• **Project Overview:**
+## Project Overview:
 
 This project focuses on analyzing employee attrition trends using Power BI and Excel. The dashboard provides insights into workforce behavior, attrition patterns, employee demographics, and key HR metrics to support data-driven decision-making.
 
-• **Technologies Used:**
+## Technologies Used:
 
 - Power BI
 - Excel
 - DAX
 - Power Query
 
-• **Key Features:**
+## Key Features:
 
 - Interactive HR analytics dashboard
 - Attrition rate and employee turnover analysis
@@ -21,14 +21,14 @@ This project focuses on analyzing employee attrition trends using Power BI and E
 - Overtime impact on attrition
 - Dynamic filters and slicers
 
-• **Key Insights:**
+## Key Insights:
 
 - Employees aged 25–35 show the highest attrition levels
 - Research & Development and Sales departments have the highest employee turnover
 - Lower-income employees show higher attrition trends
 - Employees working overtime are more likely to leave the company
 
-• **Dashboard KPIs:**
+## Dashboard KPIs:
 
 - Total Employees
 - Attrition Count
@@ -36,6 +36,6 @@ This project focuses on analyzing employee attrition trends using Power BI and E
 - Average Monthly Income
 - Average Job Satisfaction Rating
 
-• **Project Objective:**
+## Project Objective:
 
 The goal of this project is to identify patterns behind employee attrition and help organizations improve employee retention through data-driven insights.
