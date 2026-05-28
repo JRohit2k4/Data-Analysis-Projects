@@ -39,3 +39,5 @@ This project focuses on analyzing employee attrition trends using Power BI and E
 ## Project Objective:
 
 The goal of this project is to identify patterns behind employee attrition and help organizations improve employee retention through data-driven insights.
+
+## Dashboard Preview:  
