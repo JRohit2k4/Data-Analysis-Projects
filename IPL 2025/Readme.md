@@ -1,6 +1,6 @@
-IPL 2025 Performance Analytics Dashboard
+# IPL 2025 Performance Analytics Dashboard
 
-Project Overview
+# Project Overview
 
 This Power BI project analyzes the performance of players in IPL 2025 through interactive Batting and Bowling dashboards. The dashboard provides insights into player statistics, team performance, tournament highlights, and key performance indicators using data visualization and analytical reporting techniques.
 
@@ -8,7 +8,7 @@ The project aims to transform IPL 2025 statistics into actionable insights throu
 
 ---
 
-Technologies Used
+# Technologies Used
 
 - Power BI
 - Microsoft Excel
@@ -17,7 +17,7 @@ Technologies Used
 
 ---
 
-Dashboard 1: Batting Analysis
+# Dashboard 1: Batting Analysis
 
 KPIs
 
@@ -44,7 +44,7 @@ Key Insights
 
 ---
 
-Dashboard 2: Bowling Analysis
+# Dashboard 2: Bowling Analysis
 
 KPIs
 
@@ -71,7 +71,7 @@ Key Insights
 
 ---
 
-Interactive Features
+# Interactive Features
 
 - Team-wise filtering
 - Player-wise filtering
@@ -82,7 +82,7 @@ Interactive Features
 
 ---
 
-Skills Demonstrated
+# Skills Demonstrated
 
 - Data Cleaning and Transformation
 - Data Modeling
@@ -96,7 +96,7 @@ Skills Demonstrated
 
 ---
 
-Project Objective
+# Project Objective
 
 The objective of this project is to analyze IPL 2025 batting and bowling performances using Power BI and present meaningful insights through interactive dashboards. The project demonstrates the application of data visualization, KPI reporting, and sports analytics techniques to evaluate player and team performances.
 
