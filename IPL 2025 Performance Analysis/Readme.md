@@ -1,4 +1,4 @@
-# IPL 2025 Performance Analytics Dashboard
+# 🏏IPL 2025 Performance Analytics Dashboard 📈 
 
 # Project Overview
 
