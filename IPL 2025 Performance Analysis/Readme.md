@@ -106,7 +106,7 @@ Batting Analysis
 
 Bowling Analysis
 
-(Add Bowling Dashboard Screenshot Here)
+<img width="1216" height="717" alt="17800508604525139952456778231068" src="https://github.com/user-attachments/assets/313f86c5-2880-461c-883e-012a28aff049" />
 
 ---
 
