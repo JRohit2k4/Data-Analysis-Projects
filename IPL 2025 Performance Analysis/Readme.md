@@ -101,7 +101,8 @@ Dashboard Preview
 
 Batting Analysis
 
-(Add Batting Dashboard Screenshot Here)
+<img width="1214" height="711" alt="17800508169438703131437571664432" src="https://github.com/user-attachments/assets/45860b05-2b65-4cff-8a0a-23d9e5596d7e" />
+
 
 Bowling Analysis
 
