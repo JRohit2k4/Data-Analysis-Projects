@@ -71,7 +71,7 @@ The project aims to transform IPL 2025 statistics into actionable insights throu
 
 ---
 
-**Interactive Features**
+# Interactive Features
 
 - Team-wise filtering
 - Player-wise filtering
