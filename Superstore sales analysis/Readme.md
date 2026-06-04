@@ -67,6 +67,7 @@ Customer Analysis
 
 # Dashboard Preview
 
+<img width="1300" height="729" alt="17805946736598246889288099351526" src="https://github.com/user-attachments/assets/54613227-9ccc-429d-b695-293b65a5054c" />
 
 
 ---
